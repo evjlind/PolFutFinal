@@ -652,6 +652,5 @@ while is_running:
 #Books:
 # Do Androids Dream of Electric Sheep? 
 #Papers: 
-# 
-#Television:
-# 
+# "The 'Cusp of life' in Science Fiction Films: The Meaning of Human Existence in "Blade Runner"" by Alfonso Mendiz
+# "Future Imperfect: Philip K. Dick at the Movies" by Jason Vest
